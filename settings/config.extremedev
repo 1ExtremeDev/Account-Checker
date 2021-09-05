@@ -1,0 +1,11 @@
+{
+    "autologin": {
+        "autologin": false,
+        "username": "ExtremeDev",
+        "password": "Password"
+    },
+    "tool": {
+        "timeout": 1000,
+        "refresh": 1000
+    }
+}
