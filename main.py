@@ -12,7 +12,7 @@ from threading import Thread
 from core.config_handler import Text
 stocking = {
     "files": {
-        "lines": ['test:testz', 'test:testz', 'test:testz'],
+        "lines": [],
         "proxies": [],
         'bad-combos': [],
         'bad-proxies': []
